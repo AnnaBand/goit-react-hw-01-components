@@ -1,13 +1,14 @@
 .transaction-history {
     margin: 0 auto 50px;
     width: 400px;
-    background: white;
+    background: rgb(244, 236, 236);
+    border-radius: 5px;
   }
   
   .thead {
     background-color: rgb(246, 91, 91);
     padding: 5px;
-    font-size: 25px;
+    font-size: 20px;
   }
   
   .label {
@@ -20,5 +21,5 @@
   }
   
   .item:nth-child(even) {
-    background-color: #cfcfcf;
+    background-color: rgb(187, 192, 199);
   }
